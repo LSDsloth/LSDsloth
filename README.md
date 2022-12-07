@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lsdsloth&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="lsdsloth" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lsdsloth&show_icons=true&theme=tokyonight&locale=en" alt="lsdsloth" /></p>
-
-![wordpress-blue](https://user-images.githubusercontent.com/100310959/206262073-4d26c6cf-3995-4ae9-9c89-7974486fdd70.svg)
