@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stian</h1>
 <h3 align="center">I'm a passionate frontend development student from Norway</h3>
-<p align="left">I am 23 years old and studying frontend development at Noroff. </p>
+<p align="left">I am 23 years old and studying frontend development at Noroff. I discovered frontend development when I was 17 and have been in love with it since. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
