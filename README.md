@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stian</h1>
 <h3 align="center">I'm a passionate frontend developer from Norway</h3>
+<p align="left">This is a description about me </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
