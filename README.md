@@ -13,7 +13,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LSDsloth/LSDsloth/blob/main/wordpress-blue.svg" alt="wordpress" width="40" height="40"/> </a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="![React](https://github.com/LSDsloth/LSDsloth/assets/100310959/15716b8b-ac0b-435b-b9c9-a785333989f2" alt="wordpress" width="40" height="40"/> </a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> ![React](https://github.com/LSDsloth/LSDsloth/assets/100310959/15716b8b-ac0b-435b-b9c9-a785333989f2 </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LSDsloth/LSDsloth/blob/main/wordpress-blue.svg" alt="wordpress" width="40" height="40"/> </a>
 </p>
 </p>
