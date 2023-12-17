@@ -14,7 +14,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LSDsloth/LSDsloth/blob/main/wordpress-blue.svg" alt="wordpress" width="40" height="40"/> </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/LSDsloth/LSDsloth/blob/main/react.svg" alt="wordpress" width="40" height="40"/> </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LSDsloth/LSDsloth/blob/main/wordpress-blue.svg" alt="wordpress" width="40" height="40"/> </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LSDsloth/LSDsloth/blob/main/mui.svg" alt="wordpress" width="40" height="40"/> </a>
 </p>
 </p>
 
